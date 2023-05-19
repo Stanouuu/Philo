@@ -1,0 +1,6 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/Stanouuu/Libft.git
+[submodule "philo/philo/source/Libft"]
+	path = philo/philo/source/Libft
+	url = https://github.com/Stanouuu/Libft.git
